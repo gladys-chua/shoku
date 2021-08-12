@@ -1,6 +1,7 @@
 # Shoku (食)
 
 ## Recipe Finder
+The Database can be downloaded here: https://drive.google.com/file/d/1zNf52-vt9az_sZ-GkA0BUp5PsHYHzWkP/view?usp=sharing
 
 ## How to use
 Download the files and upload it to Google. Run the .ipynb files on Google Colaboratory
